@@ -30,6 +30,7 @@ dependencies = [
   "paramiko>=2.7.1",
   "pyserial>=3.4",
   "ifaddr>=0.1.6",  
+  "setuptools>=80.9.0",
 ]
 
 maintainers = [
